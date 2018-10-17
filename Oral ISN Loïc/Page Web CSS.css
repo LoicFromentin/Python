@@ -1,0 +1,35 @@
+h1{
+color:#672900;
+font-size: 3.5em;
+font-family: Vani;
+text-align: center;
+text-decoration: underline;
+}
+
+h2{
+color:#002A8C;
+font-size: 2.5em;
+text-align:center;
+font-family: Constantia;
+text-decoration: underline;
+}
+
+h4{
+color:#0190FE;
+font-size: 1.8em;
+font-family: Vani;
+text-align:center;
+text-decoration: underline;
+}
+
+p{
+color:#170056;
+font-family: Vani;
+text-align:center;
+font-size: 1.2em;
+}
+
+body {
+	text-align: center;
+	margin: auto;
+}
